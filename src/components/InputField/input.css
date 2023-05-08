@@ -1,0 +1,22 @@
+label {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: var(--color-primary);
+}
+input,textarea {
+    border: none;
+    outline: none;
+    padding: 5px;
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #505050;
+    color: #fff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+textarea {
+    height: 70px;
+    resize: none;
+}
